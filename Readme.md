@@ -24,7 +24,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando Projeto Adivinhação
 
-Para jogar, siga estas etapas:
+Para acessar o portfólio, siga estas etapas:
 
 - Acesse o seguinte link: https://maurochavesjr.github.io/projeto-portfolio/
 
