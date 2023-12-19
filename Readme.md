@@ -22,16 +22,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Um computador com um navegador instalado
 
-## ☕ Usando Projeto Adivinhação
+## ☕ Usando Projeto Portfólio
 
 Para acessar o portfólio, siga estas etapas:
 
 - Acesse o seguinte link: https://maurochavesjr.github.io/projeto-portfolio/
 
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Projeto Portfólio
 
-Para contribuir com o Projeto Adivinhação, siga estas etapas:
+Para contribuir com o Projeto Portfólio, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
