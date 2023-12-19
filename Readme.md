@@ -1,16 +1,20 @@
 # Projeto Portfólio
 
-<img src="capa.jpg" alt="Exemplo imagem">
+<img src="Capturar.PNG" alt="Exemplo imagem">
 
-> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um jogo simples de par ou ímpar, em que o usuário escolhe qual opção deseja e insere um número, o programa gera um número aleatório e verifica se deu par ou ímpar.
+> Projeto criado durante o curso de Análise e desenvolvimento de Sistemas, para testar os conhecimentos adquiridos durante o primeiro trimestre do curso em JavaScripr, HTML, CSS e Bootstrap. O objetivo do projeto é de construirmos nosso primeiro portfólio baseado um um template do Bootstrap. O template escolhido foi:
+- Template Name: iPortfolio
+- Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+- Author: BootstrapMade.com
+- License: https://bootstrapmade.com/license/
+
 
 ### Ajustes e melhorias
 
 O projeto está em constante melhorias e aberto a críticas, elogios ou sugestões. As próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Melhoria no CSS
-- [ ] Acrescentar um contador de vitórias do usuário
-- [ ] Acresencar um contador de vitórias do computador
+- [ ] Atualização das informações
+- [ ] Alteração das imagens
 
 ## 💻 Pré-requisitos
 
@@ -22,7 +26,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para jogar, siga estas etapas:
 
-- Acesse o seguinte link: https://maurochavesjr.github.io/projeto-par-impar/
+- Acesse o seguinte link: https://maurochavesjr.github.io/projeto-portfolio/
 
 
 ## 📫 Contribuindo para <nome_do_projeto>
@@ -53,11 +57,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
